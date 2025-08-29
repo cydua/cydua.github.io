@@ -220,6 +220,3 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-spaceship
-
- # _pages
-include: ['_pages']
