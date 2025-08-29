@@ -24,9 +24,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@domain.com
-author: GitHub User
+title: 乐趣为王
+email: chiz@just4fun.cn
+author: 凹凸
 
 # Copyright setting
 # You can use any html code, currently below placeholders are available:
@@ -70,10 +70,10 @@ yat:
 # enableDNT: "false"
 
 # If you want to generate website sitemap, you can set true
-# sitemap: false
+sitemap: true
 
 # If you want to change site language, you can set lang option
-# lang: "en"  # default lang is en
+lang: "zh-CN"  # default lang is en
 
 # Translate languges
 # langs refer to https://cloud.google.com/translate/docs/languages
@@ -181,7 +181,7 @@ yat:
 # excerpt_size: 350
 
 # Pagination setting
-# paginate: 5
+paginate: 5
 
 # Disqus comments
 # disqus:
