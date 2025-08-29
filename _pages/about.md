@@ -1,6 +1,7 @@
 ---
 layout: about
-title: About
+title: 关于
+permalink: /about.html
 ---
 
 <h2>About</h2>
